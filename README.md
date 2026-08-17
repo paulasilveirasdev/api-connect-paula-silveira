@@ -121,8 +121,9 @@ Status:
 text
 400 Bad Request
 
-Estrutura do projeto
-text
+## Estrutura do projeto
+
+```text
 projeto-2-api-connect/
 ├── controllers/
 ├── data/
